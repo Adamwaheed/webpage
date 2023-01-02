@@ -1,0 +1,23 @@
+
+h1{
+    background-color: beige;
+    color: red;
+    font-weight: bolder;
+}
+
+h2{
+    background-color: blue;
+    color: antiquewhite;
+}
+
+p{
+    background-color: aliceblue;
+    color:gray;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    border: 3px solid red;
+}
